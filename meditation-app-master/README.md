@@ -1,2 +1,3 @@
 # meditation-app
-Meditation app tutorial
+
+Meditation app developed using html, css, javascript
